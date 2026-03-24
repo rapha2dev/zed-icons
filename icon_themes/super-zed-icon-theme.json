@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/icon_themes/v0.2.0.json",
-  "name": "Bearded Icon Theme",
-  "author": "Sanjeev Shrestha",
+  "name": "Super Zed Icon Theme",
+  "author": "Raphael Victal",
   "themes": [
     {
-      "name": "Bearded Icon Theme",
+      "name": "Super Zed Icon Theme",
       "appearance": "dark",
       "directory_icons": {
         "collapsed": "./icons/folders/folder.svg",
@@ -62,6 +62,7 @@
         ".yarnrc.txt": "yarn",
         ".yamllint": "yamllint",
         "go.mod": "go_package",
+        "go.work": "go_package",
         "stylelint.config.ts": "stylelint",
         ".stylelintignore": "stylelintignore",
         "docker-compose.vs.release.yml": "docker",
@@ -277,6 +278,7 @@
         ".eslintrc.js": "eslint",
         "tsconfig.node.json": "tsconfig",
         "go.sum": "go_package",
+        "go.work.sum": "go_package",
         "gatsby-node.ts": "gatsby",
         "webpack.config.dev.js": "webpack",
         "unocss.config.mts": "unocss",
@@ -1359,6 +1361,7 @@
         "phps": "php",
         "tscn": "tscn",
         "go": "go",
+        "templ": "templ",
         "ttf": "font",
         "cpp": "cpp",
         "drawio": "drawio",
@@ -1569,6 +1572,9 @@
         },
         "go": {
           "path": "./icons/go.svg"
+        },
+        "templ": {
+          "path": "./icons/templ.svg"
         },
         "groovy": {
           "path": "./icons/groovy.svg"

@@ -1,8 +1,8 @@
-# Bearded Icons
+# Super Zed Icons
 
-Beautiful icons for [Zed](https://zed.dev).
+Icons for [Zed](https://zed.dev).
 
-![Preview Image](https://raw.githubusercontent.com/BeardedBear/bearded-icons/master/assets/pres.png)
+Fork of the [bearded-icons-theme](https://github.com/sethstha/bearded-icons-theme) project.
 
 # License
 
@@ -10,9 +10,11 @@ Many icons are sourced from [Bearded Icons](https://github.com/BeardedBear/beard
 
 Some missing icons have been created by me and are distributed under the same license.
 
-**Note:** More icons will not be available until file type associations are added to the core of Zed. I am also working on this.
-
 ## Changelog
+
+**0.5.0**
+Added icons for `templ` `go.work`
+
 **0.4.0**
 Added script to generate icons for all file types. Now generates 1088 icons.
 
